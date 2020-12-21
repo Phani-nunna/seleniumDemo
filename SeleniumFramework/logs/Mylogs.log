@@ -1,0 +1,15 @@
+[TRACE] 2020-12-15 11:02:47.245 [main] Log4jDemo - Thisis Tracemessage
+[INFO ] 2020-12-15 11:02:47.253 [main] Log4jDemo - This Info Message
+[ERROR] 2020-12-15 11:02:47.253 [main] Log4jDemo - This Error Message
+[WARN ] 2020-12-15 11:02:47.253 [main] Log4jDemo - This Warning Message
+[FATAL] 2020-12-15 11:02:47.254 [main] Log4jDemo - This Fatal Message
+[TRACE] 2020-12-15 11:05:27.960 [main] Log4jDemo - Thisis Tracemessage
+[INFO ] 2020-12-15 11:05:27.969 [main] Log4jDemo - This Info Message
+[ERROR] 2020-12-15 11:05:27.969 [main] Log4jDemo - This Error Message
+[WARN ] 2020-12-15 11:05:27.969 [main] Log4jDemo - This Warning Message
+[FATAL] 2020-12-15 11:05:27.970 [main] Log4jDemo - This Fatal Message
+[TRACE] 2020-12-15 11:21:01.891 [main] Log4jDemo - Thisis Tracemessage
+[INFO ] 2020-12-15 11:21:01.902 [main] Log4jDemo - This Info Message
+[ERROR] 2020-12-15 11:21:01.903 [main] Log4jDemo - This Error Message
+[WARN ] 2020-12-15 11:21:01.903 [main] Log4jDemo - This Warning Message
+[FATAL] 2020-12-15 11:21:01.903 [main] Log4jDemo - This Fatal Message

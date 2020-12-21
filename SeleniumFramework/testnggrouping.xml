@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+
+		<groups>
+			<run>
+			<include name="Kanth"></include>
+				<!-- <include name="windows.*"></include> -->
+			</run>
+		</groups>
+		<!-- <groups> <define name="regression1"> <include name="sanity"></include> 
+			<include name="phani"></include> </define> <run> <include name="regression1"></include> 
+			<exclude name="regression"></exclude> </run> </groups> -->
+
+		<!-- <groups> <run> <include name="sanity"></include> <exclude name="smoke"></exclude> 
+			</run> </groups> -->
+		<classes>
+			<class name="demo.TestNGGroupDemo" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
